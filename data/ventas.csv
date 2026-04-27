@@ -1,0 +1,51 @@
+fecha,categoria,producto,vendedor,region,cantidad,precio_unitario,costo_unitario,estado_lead,cliente_segmento
+2024-01-05,Electronica,Televisor 55",Ana Gómez,Costa,3,850,520,Cerrado,Enterprise
+2024-01-08,Ropa,Chaqueta Deportiva,Luis Vera,Sierra,12,95,40,Cerrado,SMB
+2024-01-12,Hogar,Sofá 3 piezas,Ana Gómez,Costa,2,620,310,Cerrado,Mid-market
+2024-01-15,Electronica,Laptop Pro,Carlos Ruiz,Costa,5,1200,780,Cerrado,Enterprise
+2024-01-20,Otros,Juguetes set,María Paz,Oriente,8,45,18,Cerrado,SMB
+2024-02-03,Electronica,Tablet 10",Luis Vera,Sierra,6,430,220,Cerrado,Mid-market
+2024-02-07,Ropa,Zapatillas Running,Carlos Ruiz,Costa,20,110,55,Cerrado,SMB
+2024-02-14,Hogar,Licuadora Pro,María Paz,Oriente,10,89,35,Cerrado,SMB
+2024-02-18,Electronica,Televisor 55",Ana Gómez,Costa,4,850,520,Cerrado,Enterprise
+2024-02-25,Ropa,Camisa formal,Luis Vera,Sierra,15,65,28,Cerrado,Mid-market
+2024-03-02,Electronica,Laptop Pro,Carlos Ruiz,Costa,7,1200,780,Cerrado,Enterprise
+2024-03-10,Hogar,Sofá 3 piezas,Ana Gómez,Costa,3,620,310,Cerrado,Enterprise
+2024-03-15,Ropa,Chaqueta Deportiva,María Paz,Oriente,18,95,40,Cerrado,SMB
+2024-03-20,Electronica,Tablet 10",Luis Vera,Sierra,9,430,220,Cerrado,Mid-market
+2024-03-28,Otros,Artículos de cocina,Carlos Ruiz,Costa,25,32,12,Cerrado,SMB
+2024-04-04,Electronica,Televisor 55",Ana Gómez,Costa,5,850,520,Cerrado,Enterprise
+2024-04-09,Ropa,Zapatillas Running,Luis Vera,Sierra,22,110,55,Cerrado,Mid-market
+2024-04-16,Hogar,Licuadora Pro,María Paz,Oriente,14,89,35,Cerrado,SMB
+2024-04-22,Electronica,Laptop Pro,Carlos Ruiz,Costa,6,1200,780,Cerrado,Enterprise
+2024-04-29,Ropa,Camisa formal,Ana Gómez,Costa,30,65,28,Cerrado,SMB
+2024-05-06,Electronica,Tablet 10",Luis Vera,Sierra,11,430,220,Cerrado,Enterprise
+2024-05-13,Hogar,Sofá 3 piezas,Carlos Ruiz,Costa,4,620,310,Cerrado,Enterprise
+2024-05-19,Ropa,Chaqueta Deportiva,María Paz,Oriente,16,95,40,Cerrado,SMB
+2024-05-24,Electronica,Televisor 55",Ana Gómez,Costa,6,850,520,Cerrado,Enterprise
+2024-05-30,Otros,Juguetes set,Luis Vera,Sierra,20,45,18,Cerrado,SMB
+2024-06-05,Electronica,Laptop Pro,Carlos Ruiz,Costa,8,1200,780,Cerrado,Enterprise
+2024-06-11,Ropa,Zapatillas Running,María Paz,Oriente,25,110,55,Cerrado,Mid-market
+2024-06-17,Hogar,Licuadora Pro,Ana Gómez,Costa,12,89,35,Cerrado,SMB
+2024-06-23,Electronica,Tablet 10",Luis Vera,Sierra,10,430,220,Cerrado,Mid-market
+2024-06-28,Ropa,Camisa formal,Carlos Ruiz,Costa,28,65,28,Cerrado,SMB
+2024-07-03,Electronica,Televisor 55",Ana Gómez,Costa,7,850,520,Cerrado,Enterprise
+2024-07-09,Hogar,Sofá 3 piezas,María Paz,Oriente,5,620,310,Cerrado,Enterprise
+2024-07-15,Ropa,Chaqueta Deportiva,Luis Vera,Sierra,21,95,40,Cerrado,SMB
+2024-07-21,Electronica,Laptop Pro,Carlos Ruiz,Costa,9,1200,780,Cerrado,Enterprise
+2024-07-27,Otros,Artículos de cocina,Ana Gómez,Costa,30,32,12,Cerrado,SMB
+2024-08-02,Electronica,Tablet 10",Luis Vera,Sierra,13,430,220,Cerrado,Mid-market
+2024-08-08,Ropa,Zapatillas Running,María Paz,Oriente,28,110,55,Cerrado,Mid-market
+2024-08-14,Hogar,Licuadora Pro,Carlos Ruiz,Costa,15,89,35,Cerrado,SMB
+2024-08-20,Electronica,Televisor 55",Ana Gómez,Costa,8,850,520,Cerrado,Enterprise
+2024-08-26,Ropa,Camisa formal,Luis Vera,Sierra,35,65,28,Cerrado,SMB
+2024-09-03,Electronica,Laptop Pro,Carlos Ruiz,Costa,10,1200,780,Cerrado,Enterprise
+2024-09-09,Hogar,Sofá 3 piezas,María Paz,Oriente,6,620,310,Cerrado,Enterprise
+2024-09-15,Ropa,Chaqueta Deportiva,Ana Gómez,Costa,24,95,40,Cerrado,SMB
+2024-09-21,Electronica,Tablet 10",Luis Vera,Sierra,12,430,220,Cerrado,Mid-market
+2024-09-27,Otros,Juguetes set,Carlos Ruiz,Costa,22,45,18,Cerrado,SMB
+2024-10-04,Electronica,Televisor 55",Ana Gómez,Costa,9,850,520,Cerrado,Enterprise
+2024-10-10,Ropa,Zapatillas Running,María Paz,Oriente,30,110,55,Cerrado,Mid-market
+2024-10-16,Hogar,Licuadora Pro,Luis Vera,Sierra,18,89,35,Cerrado,SMB
+2024-10-22,Electronica,Laptop Pro,Carlos Ruiz,Costa,11,1200,780,Cerrado,Enterprise
+2024-10-28,Ropa,Camisa formal,Ana Gómez,Costa,40,65,28,Cerrado,SMB
