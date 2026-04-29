@@ -3,21 +3,23 @@
 ## Descripción
 Análisis exploratorio de datos de ventas de una empresa retail, enfocado en el rendimiento del embudo CRM, segmentación de clientes y tendencias de ingresos mensuales.
 
-## Objetivos del análisis
-- Identificar los meses de mayor y menor ingreso
-- Medir la tasa de conversión en cada etapa del embudo CRM
-- Segmentar clientes por valor y estado (activo, en riesgo, churn)
-- Detectar las categorías de producto más rentables
+## Preguntas que responde este análisis
+- ¿En qué meses se generan más ingresos y ganancias?
+- ¿Qué categoría de producto es más rentable?
+- ¿Qué vendedor tiene mejor rendimiento?
+- ¿Qué región tiene mayor margen de ganancia?
 
 ## Herramientas utilizadas
-- Python (Pandas, Matplotlib, Seaborn)
-- SQL
-- Dashboard interactivo
+- Python (Pandas, Matplotlib)
+- Google Colab
+- GitHub
+
+## Resultados principales
+![Ingresos mensuales](ingresos_mensuales.png)
+![Ventas por categoría](ventas_categoria.png)
+![Rendimiento vendedores](rendimiento_vendedores.png)
+![Ventas por región](ventas_region.png)
 
 ## Estructura del proyecto
-📁 data/ → Datos del análisis
-📁 notebooks/ → Análisis en Python
-📁 dashboard/ → Visualizaciones
-
-## Estado
-🚧 En construcción
+- `data/` → Dataset de ventas 2024
+- `notebooks/` → Análisis completo en Python
