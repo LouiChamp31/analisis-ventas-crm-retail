@@ -15,10 +15,10 @@ Análisis exploratorio de datos de ventas de una empresa retail, enfocado en el 
 - GitHub
 
 ## Resultados principales
-![Ingresos mensuales](ingresos_mensuales.png)
-![Ventas por categoría](ventas_categoria.png)
-![Rendimiento vendedores](rendimiento_vendedores.png)
-![Ventas por región](ventas_region.png)
+![Ingresos mensuales](data/ingresos_mensuales.png)
+![Ventas por categoría](data/ventas_categoria.png)
+![Rendimiento vendedores](data/rendimiento_vendedores.png)
+![Ventas por región](data/ventas_region.png)
 
 ## Estructura del proyecto
 - `data/` → Dataset de ventas 2024
