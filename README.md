@@ -11,8 +11,22 @@ Análisis exploratorio de datos de ventas de una empresa retail, enfocado en el 
 
 ## Herramientas utilizadas
 - Python (Pandas, Matplotlib)
+- SQL (SQLite)
 - Google Colab
 - GitHub
+
+## Análisis realizados
+### Python
+- Tendencia de ingresos y ganancia mensual
+- Ventas por categoría de producto
+- Rendimiento por vendedor
+- Ingresos y margen por región
+
+### SQL
+- Rentabilidad por categoría
+- Ranking de vendedores por ingreso y margen
+- Tendencia mensual de ventas
+- Valor por segmento de cliente (Enterprise, Mid-market, SMB)
 
 ## Resultados principales
 ![Ingresos mensuales](data/ingresos_mensuales.png)
